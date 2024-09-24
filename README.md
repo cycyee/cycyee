@@ -3,7 +3,7 @@
 ## Education
 B.S. in Computer Science | Minor in Electrical Engineering
 University of California, Davis | Expected Graduation: June 2025
-📍 Davis, CA | 🌐 Portfolio | ✉️ cycyee@ucdavis.edu | 📞 510-939-4617
+📍 Davis, CA | ✉️ cycyee@ucdavis.edu | 📞 510-939-4617
 
 Welcome to my GitHub! I’m a software engineer with a strong foundation in backend and frontend development, microservices, and automation. My experience spans across web application development, cloud services, and data pipelines. Below, you'll find some of the projects I've worked on that showcase my passion for building scalable and efficient software solutions.
 
@@ -29,7 +29,7 @@ Some circuits in Logisim, such as a risc style CPU and parallel-interface databu
 
 Some practice in Haskell/Erlang
 
-
+Note: Some projects may have been turned private due to unwanted usage of my code.
 
 ## 💼 Work Experience
 Software Engineering Intern @ Deerect | Cupertino, CA
