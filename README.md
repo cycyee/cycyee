@@ -27,7 +27,13 @@ Campus Mapping Program
 
 Some circuits in Logisim, such as a risc style CPU and parallel-interface databus
 
+Stock Predictor Web Application using Fourier Series and Linear Regression modeling
+
+Basic Firebase messaging application using React and Node.js
+
 Some practice in Haskell/Erlang
+
+Various ASM programs, including a basic Hashmap translated from C, a trap handler, and a dictionary.
 
 Note: Some projects may have been turned private due to unwanted usage of my code.
 
