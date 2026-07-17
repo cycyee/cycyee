@@ -1,60 +1,13 @@
-# 👋 Calvin Yee
+# Calvin Yee
 
-## Education
-B.S. in Computer Science | Minor in Electrical Engineering
-University of California, Davis | Expected Graduation: June 2025
-📍 Davis, CA | ✉️ cycyee@ucdavis.edu | 📞 510-939-4617
+Software Engineer at [Apex Fintech Solutions](https://www.apexfintechsolutions.com/) — Platform team.
 
-Welcome to my GitHub! I’m a software engineer with a strong foundation in backend and frontend development, microservices, and automation. My experience spans across web application development, cloud services, and data pipelines. Below, you'll find some of the projects I've worked on that showcase my passion for building scalable and efficient software solutions.
+I build developer infrastructure and AI tooling for a 900-engineer monorepo. Currently focused on build systems (Bazel), remote caching, CI/CD, and orchestrating AI agents for code review, implementation, and documentation.
 
-### 🔧 Technologies & Tools
-Languages:
-Python, C++, C, Java, JavaScript, Kotlin, Rust, PHP, Haskell, SQL, X-86, RISC-V, Verilog
+Previously built the backend for a Y Combinator-track fintech startup and interned on platform operations at ATPCO.
 
-### Frameworks & Libraries:
-Docker, Makefile, CMake, Pytorch, Tensorflow, React, Next.js, Node.js, Express.js, Flask, Selenium, GraphQL, Redux, Tailwind CSS
+B.S. Computer Science, UC Davis '25.
 
-### Developer Tools:
-Visual Studio, Eclipse, GitHub, Linux, Vercel, Streamlit, Postman, Jira, Jenkins, Webpack, Figma
+**Currently building:** [Vertical](https://cycyee.github.io) — an agentic video generation platform using Gemini and Veo.
 
-### Cloud Services:
-AWS EC2, AWS Lambda, Google Cloud, Kubernetes
-
-## 📚 Projects
-Social Media Automation Tool
-
-Campus Mapping Program
-
-Some circuits in Logisim, such as a risc style CPU and parallel-interface databus
-
-Stock Predictor Web Application using Fourier Series and Linear Regression modeling
-
-Basic Firebase messaging application using React and Node.js
-
-Some practice in Haskell/Erlang
-
-Various ASM programs, including a basic Hashmap translated from C, a trap handler, and a dictionary.
-
-Note: Some projects may have been turned private due to unwanted usage of my code.
-
-## 💼 Work Experience
-Software Engineering Intern @ Deerect | Cupertino, CA
-July 2025 – Present
-
-Student Employee at UC Davis
-
-Headstarter Fellowship Graduate
-
-
-## 🌱 What I'm Currently Learning
-I’m always expanding my technical skill set, and right now, I’m focused on:
-
-Deepening my knowledge of microservices architecture.
-Exploring advanced machine learning frameworks like PyTorch and TensorFlow.
-Learning about scalable cloud infrastructure using Kubernetes and serverless computing with AWS Lambda.
-
-
-## 📫 Get in Touch
-Feel free to reach out to me via email at cycyee@ucdavis.edu, or check out my portfolio for more information about my work. I'm always open to collaborating on exciting projects or discussing new opportunities!
-
-
+Go · Python · Bazel · Kubernetes · Terraform · gRPC · Vertex AI
